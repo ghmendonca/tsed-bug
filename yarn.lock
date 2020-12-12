@@ -234,6 +234,11 @@
     streamroller "^1.0.3"
     tslib "1.10.0"
 
+"@tsed/platform-express@^5.57.7":
+  version "5.65.10"
+  resolved "https://registry.yarnpkg.com/@tsed/platform-express/-/platform-express-5.65.10.tgz#83990230e89ee51baffbabe2106a42f53a63ad32"
+  integrity sha512-UzR3TSCJoTKtmF7lxaio51w42MfCjuzItsKF7tfMXzyG6KphVGFq/dI9d/POlebrSmBp2i03E/ekttIxC0BD8Q==
+
 "@tsed/typeorm@5.57.7":
   version "5.57.7"
   resolved "https://registry.yarnpkg.com/@tsed/typeorm/-/typeorm-5.57.7.tgz#9cff73e7cd25618fcacbd5977022dd76ecec531b"
@@ -1558,7 +1563,7 @@ eventemitter3@^3.1.0:
   resolved "https://registry.yarnpkg.com/eventemitter3/-/eventemitter3-3.1.2.tgz#2d3d48f9c346698fce83a85d7d664e98535df6e7"
   integrity sha512-tvtQIeLVHjDkJYnzf2dgVMxfuSGJeM/7UCG17TT4EumTfNtF+0nebF/4zWOIkCreAbtNqhGEboB6BWrwqNaw4Q==
 
-express@4.17.1, express@^4.17.1:
+express@^4.17.1:
   version "4.17.1"
   resolved "https://registry.yarnpkg.com/express/-/express-4.17.1.tgz#4491fc38605cf51f8629d39c2b5d026f98a4c134"
   integrity sha512-mHJ9O79RqluphRrcw2X/GTh3k9tVv8YcoyY4Kkh4WDMUYKRZUq0h1o0w2rrrxBqM7VoeUVqgb27xlEMXTnYt4g==
@@ -2062,9 +2067,9 @@ inherits@2.0.3:
   integrity sha1-Yzwsg+PaQqUC9SRmAiSA9CCCYd4=
 
 ini@^1.3.5, ini@~1.3.0:
-  version "1.3.5"
-  resolved "https://registry.yarnpkg.com/ini/-/ini-1.3.5.tgz#eee25f56db1c9ec6085e0c22778083f596abf927"
-  integrity sha512-RZY5huIKCMRWDUqZlEi72f/lmXKMvuszcMBduliQ3nnWbx9X/ZBQO7DijMEYS9EhHBb2qacRUMtC7svLwe0lcw==
+  version "1.3.8"
+  resolved "https://registry.yarnpkg.com/ini/-/ini-1.3.8.tgz#a29da425b48806f34767a4efce397269af28432c"
+  integrity sha512-JV/yugV2uzW5iMRSiZAyDtQd+nxtUnjeLt0acNdw98kKLrvuRVyB80tsREOE7yvGVgalhZ6RNXCmEHkUKBKxew==
 
 ipaddr.js@1.9.1:
   version "1.9.1"
